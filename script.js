@@ -40,4 +40,4 @@ function newQuote() {
 
 newQuote();
 
-setInterval(newQuote, 1200000);
+setInterval(newQuote, 12000);
